@@ -1,0 +1,10 @@
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\bin\Debug\26-YarisAti.exe.config
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\bin\Debug\26-YarisAti.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\bin\Debug\26-YarisAti.pdb
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\26-YarisAti.csproj.AssemblyReference.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\_26_YarisAti.Form1.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\_26_YarisAti.Properties.Resources.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\26-YarisAti.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\26-YarisAti.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\26-YarisAti.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\26-YarisAti\26-YarisAti\obj\Debug\26-YarisAti.pdb

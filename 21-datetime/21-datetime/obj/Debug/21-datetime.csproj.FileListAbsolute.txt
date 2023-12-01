@@ -1,0 +1,10 @@
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\bin\Debug\21-datetime.exe.config
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\bin\Debug\21-datetime.exe
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\bin\Debug\21-datetime.pdb
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\21-datetime.csproj.AssemblyReference.cache
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\_21_datetime.Form1.resources
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\_21_datetime.Properties.Resources.resources
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\21-datetime.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\21-datetime.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\21-datetime.exe
+C:\Users\Lab5-1\Documents\10A ntp\21-datetime\21-datetime\obj\Debug\21-datetime.pdb

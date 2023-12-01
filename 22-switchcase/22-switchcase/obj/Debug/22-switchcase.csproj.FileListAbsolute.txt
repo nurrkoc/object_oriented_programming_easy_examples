@@ -1,0 +1,9 @@
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\bin\Debug\22-switchcase.exe.config
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\bin\Debug\22-switchcase.exe
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\bin\Debug\22-switchcase.pdb
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\obj\Debug\_22_switchcase.Form1.resources
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\obj\Debug\_22_switchcase.Properties.Resources.resources
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\obj\Debug\22-switchcase.csproj.GenerateResource.cache
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\obj\Debug\22-switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\obj\Debug\22-switchcase.exe
+C:\Users\Lab5-1\source\repos\22-switchcase\22-switchcase\obj\Debug\22-switchcase.pdb
