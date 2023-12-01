@@ -1,0 +1,10 @@
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\bin\Debug\32-dowh.exe.config
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\bin\Debug\32-dowh.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\bin\Debug\32-dowh.pdb
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\32-dowh.csproj.AssemblyReference.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\_32_dowh.Form1.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\_32_dowh.Properties.Resources.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\32-dowh.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\32-dowh.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\32-dowh.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\32-dowh\32-dowh\obj\Debug\32-dowh.pdb

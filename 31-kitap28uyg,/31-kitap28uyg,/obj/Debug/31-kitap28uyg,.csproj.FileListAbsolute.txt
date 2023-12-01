@@ -1,0 +1,10 @@
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\bin\Debug\31-kitap28uyg,.exe.config
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\bin\Debug\31-kitap28uyg,.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\bin\Debug\31-kitap28uyg,.pdb
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\31-kitap28uyg,.csproj.AssemblyReference.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\_31_kitap28uyg_.Form1.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\_31_kitap28uyg_.Properties.Resources.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\31-kitap28uyg,.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\31-kitap28uyg,.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\31-kitap28uyg,.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\31-kitap28uyg,\31-kitap28uyg,\obj\Debug\31-kitap28uyg,.pdb
