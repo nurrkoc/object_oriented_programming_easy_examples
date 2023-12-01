@@ -1,0 +1,9 @@
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\bin\Debug\29-tekCift.exe.config
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\bin\Debug\29-tekCift.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\bin\Debug\29-tekCift.pdb
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\obj\Debug\_29_tekCift.Form1.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\obj\Debug\_29_tekCift.Properties.Resources.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\obj\Debug\29-tekCift.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\obj\Debug\29-tekCift.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\obj\Debug\29-tekCift.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\29-tekCift\29-tekCift\obj\Debug\29-tekCift.pdb

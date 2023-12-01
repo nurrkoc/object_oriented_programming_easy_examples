@@ -1,0 +1,10 @@
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\bin\Debug\28-for.exe.config
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\bin\Debug\28-for.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\bin\Debug\28-for.pdb
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\28-for.csproj.AssemblyReference.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\_28_for.Form1.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\_28_for.Properties.Resources.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\28-for.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\28-for.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\28-for.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\28-for\28-for\obj\Debug\28-for.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\bin\Debug\30-while.exe.config
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\bin\Debug\30-while.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\bin\Debug\30-while.pdb
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\30-while.csproj.AssemblyReference.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\_30_while.Form1.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\_30_while.Properties.Resources.resources
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\30-while.csproj.GenerateResource.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\30-while.csproj.CoreCompileInputs.cache
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\30-while.exe
+C:\Users\Lab5-1\Desktop\İnan\10A ntp\30-while\30-while\obj\Debug\30-while.pdb
